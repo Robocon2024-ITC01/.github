@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 We are ITC01-Team</h1>
-<h3 align="center">We are building the robot for ABU Robocon2024 at Vietnam.</h3>
+<h3 align="center">We are building the robot for ABU Robocon2024</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

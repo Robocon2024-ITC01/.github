@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋 We are ITC01-Team</h1>
 <h3 align="center">We are building the robot for ABU Robocon2024</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-
 <h3 align="left"> Robotics Software </h3>
 <p align="left"> <a href="https://www.st.com/content/st_com/en.html" target="_blank" rel="noreferrer"> <img src="https://wiki.stmicroelectronics.cn/stm32mcu/nsfr_img_auth.php/4/4e/STM32.png" alt="c" width="50" height="50" /> </a> <a href="https://docs.ros.org" target="_blank" rel="noreferrer"> <img src="https://www.therobotreport.com/wp-content/uploads/2023/05/IronIrwiniLogo.jpg" alt="c" width="50" height="50" /> </a> </p>
 

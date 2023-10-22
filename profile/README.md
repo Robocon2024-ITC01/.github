@@ -7,10 +7,7 @@
 
 
 <h3 align="left"> Robotics Software </h3>
-<p align="left"> <a href="https://www.st.com/content/st_com/en.html" target="_blank" rel="noreferrer"> <img src="https://wiki.stmicroelectronics.cn/stm32mcu/nsfr_img_auth.php/4/4e/STM32.png" alt="c" width="40" height="40" /> </a>
-<p align="left"> <a href="https://docs.ros.org" target="_blank" rel="noreferrer"> <img src="https://www.therobotreport.com/wp-content/uploads/2023/05/IronIrwiniLogo.jpg" alt="c" width="40" height="40" /> </a>
-
-https://www.therobotreport.com/wp-content/uploads/2023/05/IronIrwiniLogo.jpg
+<p align="left"> <a href="https://www.st.com/content/st_com/en.html" target="_blank" rel="noreferrer"> <img src="https://wiki.stmicroelectronics.cn/stm32mcu/nsfr_img_auth.php/4/4e/STM32.png" alt="c" width="50" height="50" /> </a> <a href="https://docs.ros.org" target="_blank" rel="noreferrer"> <img src="https://www.therobotreport.com/wp-content/uploads/2023/05/IronIrwiniLogo.jpg" alt="c" width="50" height="50" /> </a> </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
